@@ -11,6 +11,8 @@ public class MessageRunner implements CommandLineRunner {
 		System.out.println("from COmmandLine Runner");
 		
 		System.out.println("this is my first runner");
+		
+		System.out.println("this is my first runner");
 
 	}
 
